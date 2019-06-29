@@ -1,0 +1,19 @@
+{
+  "element_focus_username": "form > div:nth-child(1) > div",
+  "element_username": "form div:nth-child(1) div input",
+  "usuario_correcto": "admin",
+  "element_focus_password": "form > div:nth-child(2) > div",
+  "element_password": "form div:nth-child(2) div input",
+  "contrasenna_correcta": "admin",
+  "element_button": "div.mx-auto div div form button",
+  "contrasenna_incorrecta": "abbot123",
+  "usuario_incorrecto": "abbot8731@gmail.com",
+  "texto_tres_elementos" : "123",
+  "element_error_usuario_login": "div:nth-child(1) p",
+  "element_error_contrasenna_login" : "div:nth-child(2) > p",
+  "element_verificar_usuario_login" : "div.hidden.md\\:flex.flex-col.ml-12 > span",
+  "text_verificar_usuario_login" : "Administrator",
+  "element_menu_derecho_usuario" : "div.hidden.md\\:flex.flex-col.ml-12.items-start > span",
+  "element_cerrar_sesion" : "div.py-8 li",
+  "browsers_for_test": ["chrome"]
+}

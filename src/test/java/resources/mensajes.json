@@ -1,0 +1,9 @@
+{
+  "text_error_usuario_login": "Check your username/email",
+  "text_error_usuario_contrasenna": "Check your password",
+  "text_error_cant_caract_min" : "Mínimo 4 caracteres",
+  "element_vehiculo_guardado": "div.MuiSnackbarContent-message-3004",
+  "text_vehiculo_guardado": "Vehículo Guardado",
+  "text_mensaje_filtro_ok" : "Todos los elementos encontrados corresponden con el filtro",
+  "text_mensaje_error_filtro" : "Un elemento encontrado no corresponde con el filtro"
+}
